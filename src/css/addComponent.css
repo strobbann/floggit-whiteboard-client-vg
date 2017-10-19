@@ -1,0 +1,45 @@
+.add-component {
+  float: left;
+  flex-direction: row;
+  background-color: rgba(255, 255, 136, 0.2);
+}
+
+.add-component-title {
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+input {
+  background: var(--color-neutral-3);
+  margin: 10px;
+  width: 10em;
+  padding: 5px;
+  border-radius: 5px;
+  border: var(--color-neutral-70) solid 1px;
+}
+
+button {
+  background-color: var(--color-neutral-15);
+  border-radius: 10px;
+  margin: 10px;
+  padding: 5px;
+  text-transform: capitalize;
+}
+
+.add-info-item-btn,
+.remove-btn {
+  width: 2em;
+  border-radius: 7px;
+  font-size: var(--font-size-small);
+  font-weight: bold;
+}
+
+.add-info-item-btn {
+  margin-right: 1px;
+}
+
+ul.edit-note {
+  max-height: 65%;
+  overflow: scroll;
+  margin-bottom: 10px;
+}

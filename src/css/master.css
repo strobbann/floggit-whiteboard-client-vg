@@ -1,0 +1,7 @@
+@import "reset.css";
+@import "base.css";
+@import "note.css";
+@import "dropDown.css";
+@import "info.css";
+@import "addComponent.css";
+@import "components/NoteList/noteList.css";

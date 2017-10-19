@@ -1,0 +1,9 @@
+:root {
+  --font-family-primary: Trebuchet, Verdana, Helvetica, Arial, sans-serif;
+  --font-family-secondary: "Palatino Linotype", "Bookman Old Style", Times, serif;
+  --font-size-extra-large: 3em;
+  --font-size-large: 2.5em;
+  --font-size-medium: 2em;
+  --font-size-small: 1em;
+  --font-size-extra-small: 0.5em;
+}
